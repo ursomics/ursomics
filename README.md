@@ -1,3 +1,5 @@
+![ursomics](https://www.ursomics.com/wp-content/uploads/2026/11/github-social-preview.png)
+
 # Ursomics
 
 **Biology, decoded by AI. From cells to code.**
