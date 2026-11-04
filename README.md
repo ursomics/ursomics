@@ -1,14 +1,12 @@
-![ursomics](https://www.ursomics.com/wp-content/uploads/2026/11/github-social-preview.png)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/ursomics_profile_full_dark.png">
+    <img alt="Ursomics: Biology, decoded by AI. I am a research scientist in biology and bioinformatics with more than 25 years of experience in academia and industry (immunology, stem cell and cell biology). What you will find: Bioinformatics with AI tutorials in R and Python (English and Korean), Journal Club paper summaries, open-source tools such as ursoTTS, and RNA-seq, single-cell and spatial pipelines (coming soon). Built with Python, R and Claude Code." src="images/ursomics_profile_full_light.png" width="100%">
+  </picture>
+</p>
 
-# Ursomics
-
-**Biology, decoded by AI. From cells to code.**
-
-I'm a research scientist in biology and bioinformatics, with more than 25 years of experience in academia and industry (immunology, stem cell and cell biology). I started as a bench biologist, so I make the tutorials I wish I'd had when I began.
-
-- 🧬 **Bioinformatics with AI**: step-by-step tutorials in R and Python, from your own data to publication-quality figures (RNA-seq, single-cell, TCR/BCR, spatial, small-sample statistics). English and Korean versions. All demo data are public or simulated.
-- 📄 **Journal Club**: short, calm summaries of papers, with the PubMed ID and DOI.
-
-Notebooks and demo data for the tutorials will be published in [bioinformatics-with-ai](https://github.com/ursomics/bioinformatics-with-ai).
-
-YouTube: [@ursomics](https://www.youtube.com/@ursomics) · Web: [ursomics.com](https://ursomics.com) · Contact: ursus@ursomics.com
+<p align="center">
+  <a href="https://youtube.com/@ursomics"><img src="images/badge_youtube.png" height="28" alt="YouTube @ursomics"></a>
+  <a href="https://ursomics.com"><img src="images/badge_website.png" height="28" alt="Website ursomics.com"></a>
+  <a href="https://github.com/ursomics/ursotts"><img src="images/badge_project.png" height="28" alt="Project ursoTTS"></a>
+</p>
