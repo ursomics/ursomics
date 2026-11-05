@@ -1,12 +1,19 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/ursomics_profile_full_dark.png">
-    <img alt="Ursomics: Biology, decoded by AI. I am a research scientist in biology and bioinformatics with more than 25 years of experience in academia and industry (immunology, stem cell and cell biology). What you will find: Bioinformatics with AI tutorials in R and Python (English and Korean), Journal Club paper summaries, open-source tools such as ursoTTS, and RNA-seq, single-cell and spatial pipelines (coming soon). Built with Python, R and Claude Code." src="images/ursomics_profile_full_light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="images/org_readme_banner_dark_1600x480.png">
+    <img alt="Ursomics™: Biology, decoded by AI" src="images/org_readme_banner_light_1600x480.png" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/@ursomics"><img src="images/badge_youtube.png" height="28" alt="YouTube @ursomics"></a>
-  <a href="https://ursomics.com"><img src="images/badge_website.png" height="28" alt="Website ursomics.com"></a>
-  <a href="https://github.com/ursomics/ursotts"><img src="images/badge_project.png" height="28" alt="Project ursoTTS"></a>
+  <a href="https://youtube.com/@ursomics"><img alt="YouTube @ursomics" src="https://img.shields.io/badge/YouTube-%40ursomics-D97757?style=plastic&logo=youtube&logoColor=white"></a>
+  <a href="https://ursomics.com"><img alt="ursomics.com" src="https://img.shields.io/badge/Website-ursomics.com-C4623F?style=plastic&logo=googlechrome&logoColor=white"></a>
+  <a href="https://github.com/ursomics/ursotts"><img alt="ursoTTS™" src="https://img.shields.io/badge/Project-ursoTTS%E2%84%A2-1B1B1B?style=plastic&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/ursomics_profile_body_dark.png">
+    <img alt="About Ursomics™: tutorials, journal club, tools and pipelines; featured project ursoTTS™" src="images/ursomics_profile_body_light.png" width="100%">
+  </picture>
 </p>
